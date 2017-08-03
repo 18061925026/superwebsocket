@@ -1,0 +1,10 @@
+D:\WorkDir\Cod\Client\bin\Debug\Client.exe
+D:\WorkDir\Cod\Client\bin\Debug\Client.pdb
+D:\WorkDir\Cod\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WorkDir\Cod\Client\obj\Debug\Client.Properties.Resources.resources
+D:\WorkDir\Cod\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\WorkDir\Cod\Client\obj\Debug\Client.exe
+D:\WorkDir\Cod\Client\obj\Debug\Client.pdb
+D:\WorkDir\Cod\Client\bin\Debug\Client.exe.config
+D:\WorkDir\Cod\Client\bin\Debug\WebSocket4Net.dll
+D:\WorkDir\Cod\Client\obj\Debug\Client.CFrmMain.resources
